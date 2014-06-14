@@ -1,5 +1,5 @@
 
-#####  Assignment 2 
+#####  Assignment 1
 
 #####  Connecting to MYSQL DATABASE 
 ````
